@@ -4,3 +4,7 @@ langsmith
 python-dotenv
 langchain-groq
 langchain_tavily
+mcp
+langchain-mcp-adapters
+langgraph-cli[inmem]
+langchain_community
